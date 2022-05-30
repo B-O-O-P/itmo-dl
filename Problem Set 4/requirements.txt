@@ -1,0 +1,8 @@
+numpy
+torch
+tqdm
+torchtext
+transformers
+sklearn
+pandas
+matplotlib
